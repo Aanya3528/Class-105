@@ -1,0 +1,21 @@
+body{
+
+background:linear-gradient(white,rgb(245, 144, 245));
+
+}
+
+h2{
+
+font-family: fantasy;
+
+}
+
+#camera{
+
+border-style: double;
+height:300px;
+width:300px;
+border-width: thick;
+
+}
+
